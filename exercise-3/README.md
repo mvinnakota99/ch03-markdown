@@ -15,4 +15,14 @@ An example of how it can be used (with appropriate code highlighting)
 
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
+## Mkdir [directory_name]
+
+This terminal command allows the user to create a new directory or folder with the simple command immediately followed by the name they wish to assign. Below is an example in how to use this in the bash shell:
+
+`mkdir class1exercises`
+
+- Mkdir stands for **M**a**k**e **Dir**ectory
+- Main use is to make a new directory inside the current folder
+  - if the folder does not exist it makes all parents ones that precede it
+
 See `complete` branch for answers.
